@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hahahaha beautiful life</title>
+    <style>
+        body {
+            background-color: black;
+            color: lightgray;
+            font-family: sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        .skulls {
+            font-size: 4em; /* يمكنك تعديل حجم الجماجم */
+        }
+
+        .quote {
+            font-size: 1.5em;
+            margin-top: 20px;
+        }
+
+        .translation {
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+
+        .footer {
+            margin-top: 50px;
+            font-size: 0.8em;
+        }
+        .shahada {
+            margin-top: 10px;
+            font-size: 1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="skulls">
+            
+        </div>
+        <div class="quote">
+            "يعيشون التزييف"
+            <br>
+            "حياتهم خدعة"
+        </div>
+        <div class="translation">
+            "They live a lie"
+            <br>
+            "Their life is a trick"
+        </div>
+        <div class="footer">
+            dhia kaddai
+            <div class="shahada">
+                أشهد أن لا إله إلا الله وأشهد أن محمداً عبده ورسوله
+            </div>
+        </div>
+    </div>
+</body>
+</html>
